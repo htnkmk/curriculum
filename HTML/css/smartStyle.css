@@ -1,0 +1,46 @@
+@media screen and (min-width: 767px) {
+}
+@media screen and (max-width: 767px) {
+  .hedder{
+    width: 300px;
+  }
+  .left{
+    width: 100px;
+  }
+  .right-top{
+    width: 75px;
+  }
+  .box{
+    width: 125px;
+  }
+  .bottom{
+    width: 200px;
+  }
+  .footer{
+    width: 300px;
+  }
+}
+@media screen and (max-width: 479px) {
+  .hedder{
+    width: 150px;
+  }
+  .left{
+    width: 150px;
+    float: none;
+  }
+  .right-top{
+    width: 150px;
+    float: none;
+  }
+  .box{
+    width: 150px;
+    float: none;
+  }
+  .bottom{
+    width: 150px;
+    float: none;
+  }
+  .footer{
+    width: 150px;
+  }
+}
